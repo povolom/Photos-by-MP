@@ -54,3 +54,6 @@ h2{font-size:24px}
 .photo-grid span{aspect-ratio:4/3;border:1px solid var(--line);border-radius:8px;background:linear-gradient(135deg,#1a2c44,#0c1624)}
 .photo-grid span:nth-child(2n){background:linear-gradient(135deg,#132238,#1d2b45)}
 @media (max-width:520px){.photo-grid{grid-template-columns:repeat(2,1fr)}}
+
+/* Drawn arrow icons (arrow characters render as emoji on some phones) */
+.arrow{display:inline-block;width:.9em;height:.9em;vertical-align:-.1em}
