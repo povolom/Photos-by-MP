@@ -1,4 +1,4 @@
-# Project rules
+# Project rules (Photos by MP)
 
 - Only Marcantonio's own photos, and only ones he has chosen. Never add stock or AI-generated images.
 - No photos that show other people's faces, home addresses or location details without their consent. Strip GPS and other EXIF location data before committing.

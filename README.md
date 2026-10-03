@@ -1,8 +1,8 @@
-# Photography gallery
+# Photos by MP
 
 A fast, responsive gallery for my photography.
 
-**Status:** coming soon. **Page:** https://povolom.github.io/Photography-Gallery/
+**Status:** coming soon. **Page:** https://photos.marcantoniopovolo.com
 
 Built by [Marcantonio Povolo](https://marcantoniopovolo.com), a Computer Engineering student at Toronto Metropolitan University. I won my high school's Arts Fest photography award in Grades 10 and 11.
 
