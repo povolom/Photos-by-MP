@@ -1,0 +1,8 @@
+// Cloudflare Worker settings for photos.marcantoniopovolo.com (static files from site/, no Worker code).
+{
+  "name": "photos-by-mp",
+  "compatibility_date": "2026-10-03",
+  "assets": { "directory": "./site" },
+  // Cloudflare creates the DNS record and HTTPS certificate for this subdomain on deploy.
+  "routes": [{ "pattern": "photos.marcantoniopovolo.com", "custom_domain": true }]
+}

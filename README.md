@@ -16,4 +16,5 @@ Built by [Marcantonio Povolo](https://marcantoniopovolo.com), a Computer Enginee
 
 | Path | What it is |
 |---|---|
-| `docs/index.html`, `docs/style.css` | The gallery page, served by GitHub Pages from `main` › `/docs`. |
+| `site/` | What Cloudflare serves at photos.marcantoniopovolo.com: the coming-soon page (`index.html`), the project page (`about/`), shared styles (`page.css`), icons and favicon. Built by `build_app_pages.py` in my portfolio folder. |
+| `wrangler.jsonc` | Cloudflare Worker settings: serve `site/` at photos.marcantoniopovolo.com. Publish with `npx wrangler deploy`. |
