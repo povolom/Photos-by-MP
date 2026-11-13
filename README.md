@@ -2,7 +2,7 @@
 
 A fast, responsive home for my photography. I won my high school's Arts Fest photography award in Grades 10 and 11, and this is where that work will live.
 
-**Status:** coming soon at https://photos.marcantoniopovolo.com · [About the project](https://marcantoniopovolo.com/projects/photos.html) · Open source (MIT)
+**Status:** coming soon at https://photos.marcantoniopovolo.com · [About the project](https://marcantoniopovolo.com/projects/photos) · Open source (MIT)
 
 Built by [Marcantonio Povolo](https://marcantoniopovolo.com), a Computer Engineering student at Toronto Metropolitan University. I decide what it does and review and test each change; AI coding tools help write the code.
 
@@ -16,7 +16,7 @@ Built by [Marcantonio Povolo](https://marcantoniopovolo.com), a Computer Enginee
 
 | Path | What it is |
 |---|---|
-| `site/` | The website at photos.marcantoniopovolo.com: the coming-soon page (`index.html`, `style.css`), icons and favicons. `about/` and `_redirects` send the old project page to [marcantoniopovolo.com/projects/photos.html](https://marcantoniopovolo.com/projects/photos.html) |
+| `site/` | The website at photos.marcantoniopovolo.com: the coming-soon page (`index.html`, `style.css`), icons and favicons. `about/` and `_redirects` send the old project page to [marcantoniopovolo.com/projects/photos.html](https://marcantoniopovolo.com/projects/photos) |
 | `worker.js` | The API: anything under `/api/` (for now `/api/status`). Everything else is served from `site/` |
 | `wrangler.jsonc` | Cloudflare settings: `site/` plus `worker.js` at photos.marcantoniopovolo.com |
 | `LICENSE` | MIT: free to use, change and share |

@@ -5,7 +5,7 @@ const APP = {
   name: 'Photos by MP',
   status: 'coming soon',
   site: 'https://photos.marcantoniopovolo.com',
-  about: 'https://marcantoniopovolo.com/projects/photos.html',
+  about: 'https://marcantoniopovolo.com/projects/photos',
   code: 'https://github.com/povolom/Photos-by-MP',
 };
 
